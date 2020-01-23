@@ -1,7 +1,7 @@
 {
   "AniFlix-Masslinker-win": {
     "readme": "Test",
-    "install": "https://github.com//Mujaca/Masslinker-Releases/releases/download/untagged-751d4e2e0002078b1cc6/Masslinker.Setup.0.4.1.exe",
+    "update": "https://github.com//Mujaca/Masslinker-Releases/releases/download/untagged-751d4e2e0002078b1cc6/Masslinker.Setup.0.4.1.exe",
     "version": "0.4.1"
   },
   "AniFlix-Masslinker-mac": {
