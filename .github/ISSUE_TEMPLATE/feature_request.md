@@ -1,11 +1,12 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Verbesserungs Vorschlag
+about: Schlage uns Ideen für den Masslinker vor
 title: ''
-labels: ''
+labels: 'Verbesserungs Vorschlag'
 assignees: ''
 
 ---
+
 
 **Ist dein Vorschlag mit irgendeinem Problem verbunden? Wenn ja beschreibe welches**
 Eine detaillierte Beschreibung, was dein Problem ist.
