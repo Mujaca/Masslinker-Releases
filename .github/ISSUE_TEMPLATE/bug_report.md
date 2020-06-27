@@ -11,7 +11,7 @@ Alles Unter den Überschriften Ersetzen/Löschen. **Die Überschriften Bitte ste
 **Beschreibe den bug**
 Bitte Beschreibe Klar, was der Bug tut
 
-**Schritte zum Reproduzeieren**
+**Schritte zum Reproduzieren**
 Schritte zum Reproduzieren des bugs:
 1. Gehe Zu'...'
 2. Drücke auf'....'
